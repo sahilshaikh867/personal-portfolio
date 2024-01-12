@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="my.css">
+    <title>sahil shaikh</title>
+</head>
+<body>
+    <header>
+        <h1>sahil shaikh</h1>
+        <p>video Editor</p>
+    </header>
+
+    <section id="about">
+        <h2>About Me</h2>
+        <p>I am an enthusiastic, self-motivated, reliable, responsible and hard working person. I am a mature team worker and adaptable to all challenging situations. I am able to work well both in a team environment as well as using own initiative. I am able to work well under pressure and adhere to strict deadlines.</p>
+    </section>
+
+    <section id="skills">
+        <h2>Skills</h2>
+        <ul>
+            <li>video editing</li>
+            <li>coding in java and python</li>
+            <li>web developing</li>
+            
+    </section>
+
+    <section id="projects">
+        <h2>Projects</h2>
+        <div class="project">
+            <h3>website design for nikon camera</h3>
+            <p>This page provides information on Canon Design ... We share information about your use of our website with our social media, advertising and analytics partners</p>
+        </div>
+        <div class="project">
+            <h3>Deniel of server</h3>
+            <p>A denial-of-service (DoS) attack is a cyberattack that prevents legitimate users from accessing network resources, devices, or information systems. This is usually accomplished by flooding the target network or host with traffic until it crashes or can't respond. 
+            </p>
+        </div>
+        
+    </section>
+
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>Email: sahilshaikh86767@gmail.com</p>
+        <p>LinkedIn: linkedin.com/sahilshaikh</p>
+        <p>GitHub: github.com/sahilshaikh86767</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2023 sahil shaikh. All rights reserved.</p>
+    </footer>
+</body>
+</html>
